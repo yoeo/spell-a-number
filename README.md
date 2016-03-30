@@ -1,5 +1,5 @@
 # Spell a number
-Learn how to spell numbers in *French*.
+Learn how to spell numbers in **French**.
 
 This software converts the digits of a given number to its the litteral representation.
 All positive, negative integers and decimals are supported. 

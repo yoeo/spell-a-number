@@ -33,7 +33,7 @@ make
 ```
 * Launch the generated program
 ```bash
-# The program shows a prompt, just type a number then type <ENTER>
+# the program shows a prompt, just type a number then type <ENTER>
 ./run
 ```
 

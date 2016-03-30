@@ -1,10 +1,10 @@
 # Spell a number
 Learn how to spell numbers in *French*.
 
-This software converts the digits of a given number its the litteral representation.
-All positive and negative integers and decimals are supported. 
+This software converts the digits of a given number to its the litteral representation.
+All positive, negative integers and decimals are supported. 
 
-## Output exemple
+## Output example
 ```
 Nombres en toutes lettres ;)
 Ce programme traduit les nombres en lettres!
@@ -25,7 +25,7 @@ trois virgule quatorze
 ```
 
 ## Build and Run
-* Install `make` on your system
+* Install `g++` and `make` on your system
 * Build the program
 ```bash
 # on the repository root directory, type
@@ -37,4 +37,4 @@ make
 ./run
 ```
 
-/!\ Typing errors are not handled. Please be kind to the prompt.
+⚠ Typing errors are not handled. Please be kind to the prompt.

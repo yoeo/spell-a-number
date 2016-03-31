@@ -1,4 +1,4 @@
-# Spell a number
+# Spell a number [![Build Status](https://travis-ci.org/yoeo/spell-a-number.svg?branch=master)](https://travis-ci.org/yoeo/spell-a-number)
 Learn how to spell numbers in **French**.
 
 This software converts the digits of a given number to its litteral representation.

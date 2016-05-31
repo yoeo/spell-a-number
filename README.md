@@ -13,11 +13,8 @@ ecrivez un nombre puis pressez <ENTRER>
 => 13
 treize 
 
-=> 69
-soixante neuf 
-
-=> 666
-six cent soixante six 
+=> -9
+moins neuf 
 
 => 3.14
 trois virgule quatorze 
